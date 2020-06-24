@@ -1,5 +1,4 @@
-/* by：弦云孤赫——David Yang
-** github - https://github.com/yangyunhe369
+/* Clyde.js Web team
 */
 // 游戏主函数
 let _main = {

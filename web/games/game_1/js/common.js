@@ -1,5 +1,4 @@
-/* by：弦云孤赫——David Yang
-** github - https://github.com/yangyunhe369
+/* Clyde.js Web team
 */
 // 封装打印日志方法
 const log = console.log.bind(console)
